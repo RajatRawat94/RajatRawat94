@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RajatRawat94/RajatRawat94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rajat Rawat 👋
 
-Here are some ideas to get you started:
+### QA Lead / Automation Engineer — Manual & Automation Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+11+ years building test automation frameworks and leading QA across banking & payments, gaming, and enterprise IT. Currently testing ISO 20022 payment flows for a Tier-1 Canadian bank.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-rawat-9b3a9285)
+[![Email](https://img.shields.io/badge/Email-rajat461994%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajat461994@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+Currently leading QA on a payments platform for a Tier-1 Canadian bank, testing ISO 20022 message flows (pacs.008, pain.001, camt.056, and more), retail and corporate banking scenarios, and bulk payment processing. Building automation frameworks from scratch with Selenium, Appium, and Playwright, and leading BDD-based POCs that have directly won client business. Comfortable across Java, JavaScript/TypeScript, Python, and C#. Using AI-assisted tools (GitHub Copilot, Cursor) daily to speed up test design and framework development. Former Unity 3D developer — see the game project below. Based in Ghaziabad, India.
+
+## Skills
+
+**Testing & QA**
+
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/-Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-yellow?style=flat-square) ![Cucumber](https://img.shields.io/badge/-BDD%2FCucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white) ![Postman](https://img.shields.io/badge/-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**DevOps & Tools**
+
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+## Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [shadowrealm-rpg](https://github.com/RajatRawat94/shadowrealm-rpg) | 3rd-person action RPG built in Unity/C# — inventory, potion-crafting, shop, enemy AI pathfinding, boss combat, save/load systems. |
+| Web automation framework (Playwright + TypeScript) | Page-Object-Model framework with GitHub Actions CI — link added once published |
+| Web automation framework (Selenium + Java + TestNG) | BDD-style framework mirroring the client POC pattern from my current role — link added once published |
+| Mobile automation framework (Appium) | Cross-platform mobile test framework — link added once published |
+
+This portfolio is actively being built out — more repos are being added.
+
+## GitHub Stats
+
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajatRawat94&show_icons=true&hide_border=true)
+</li></li></ul>
