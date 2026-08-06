@@ -36,7 +36,7 @@ Currently leading QA on a payments platform for a Tier-1 Canadian bank, testing 
 | Project | What it demonstrates |
 |---|---|
 | [shadowrealm-rpg](https://github.com/RajatRawat94/shadowrealm-rpg) | 3rd-person action RPG built in Unity/C# — inventory, potion-crafting, shop, enemy AI pathfinding, boss combat, save/load systems. |
-| Web automation framework (Playwright + TypeScript) | Page-Object-Model framework with GitHub Actions CI — link added once published |
+| [saucedemo-playwright-ts](https://github.com/RajatRawat94/saucedemo-playwright-ts) | Page-Object-Model framework (Playwright + TypeScript), 39 tests across Chromium/Firefox/WebKit. ![CI](https://github.com/RajatRawat94/saucedemo-playwright-ts/actions/workflows/playwright.yml/badge.svg) |
 | Web automation framework (Selenium + Java + TestNG) | BDD-style framework mirroring the client POC pattern from my current role — link added once published |
 | Mobile automation framework (Appium) | Cross-platform mobile test framework — link added once published |
 
