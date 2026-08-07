@@ -37,12 +37,11 @@ Currently leading QA on a payments platform for a Tier-1 Canadian bank, testing 
 |---|---|
 | [shadowrealm-rpg](https://github.com/RajatRawat94/shadowrealm-rpg) | 3rd-person action RPG built in Unity/C# — inventory, potion-crafting, shop, enemy AI pathfinding, boss combat, save/load systems. |
 | [saucedemo-playwright-ts](https://github.com/RajatRawat94/saucedemo-playwright-ts) | Page-Object-Model framework (Playwright + TypeScript), 39 tests across Chromium/Firefox/WebKit. ![CI](https://github.com/RajatRawat94/saucedemo-playwright-ts/actions/workflows/playwright.yml/badge.svg) |
-| Web automation framework (Selenium + Java + TestNG) | BDD-style framework mirroring the client POC pattern from my current role — link added once published |
-| Mobile automation framework (Appium) | Cross-platform mobile test framework — link added once published |
+| [selenium-java-saucedemo](https://github.com/RajatRawat94/selenium-java-saucedemo) | BDD-style framework (Selenium + Java + Cucumber + TestNG) mirroring the client POC pattern from my current role — 8 scenarios across cart, checkout, and login flows. ![CI](https://github.com/RajatRawat94/selenium-java-saucedemo/actions/workflows/selenium-tests.yml/badge.svg) |
+| [appium-mobile-demoapp](https://github.com/RajatRawat94/appium-mobile-demoapp) | Cross-platform mobile automation (Appium + WebdriverIO + TypeScript) against a real Android emulator in CI — catalog, cart, and login flows. ![CI](https://github.com/RajatRawat94/appium-mobile-demoapp/actions/workflows/appium-tests.yml/badge.svg) |
 
 This portfolio is actively being built out — more repos are being added.
 
 ## GitHub Stats
 
 ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajatRawat94&show_icons=true&hide_border=true)
-</li></li></ul>
