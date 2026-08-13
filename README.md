@@ -35,6 +35,7 @@ Currently leading QA on a payments platform for a Tier-1 Canadian bank, testing 
 
 | Project | What it demonstrates |
 |---|---|
+| **CoOptima Mobile Banking Automation POC** *(private repo)* | Appium + Java + TestNG framework built to demonstrate mobile QA automation capability to a Tier-1 banking client — login, fund-transfer, and OTP-driven MFA flows across Android/iOS, running on BrowserStack App Automate with Extent reporting. Code available on request. |
 | [shadowrealm-rpg](https://github.com/RajatRawat94/shadowrealm-rpg) | 3rd-person action RPG built in Unity/C# — inventory, potion-crafting, shop, enemy AI pathfinding, boss combat, save/load systems. |
 | [saucedemo-playwright-ts](https://github.com/RajatRawat94/saucedemo-playwright-ts) | Page-Object-Model framework (Playwright + TypeScript), 39 tests across Chromium/Firefox/WebKit. ![CI](https://github.com/RajatRawat94/saucedemo-playwright-ts/actions/workflows/playwright.yml/badge.svg) |
 | [selenium-java-saucedemo](https://github.com/RajatRawat94/selenium-java-saucedemo) | BDD-style framework (Selenium + Java + Cucumber + TestNG) mirroring the client POC pattern from my current role — 8 scenarios across cart, checkout, and login flows. ![CI](https://github.com/RajatRawat94/selenium-java-saucedemo/actions/workflows/selenium-tests.yml/badge.svg) |
