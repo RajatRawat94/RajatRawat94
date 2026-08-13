@@ -42,7 +42,3 @@ Currently leading QA on a payments platform for a Tier-1 Canadian bank, testing 
 | [appium-mobile-demoapp](https://github.com/RajatRawat94/appium-mobile-demoapp) | Cross-platform mobile automation (Appium + WebdriverIO + TypeScript) against a real Android emulator in CI — catalog, cart, and login flows. ![CI](https://github.com/RajatRawat94/appium-mobile-demoapp/actions/workflows/appium-tests.yml/badge.svg) |
 
 This portfolio is actively being built out — more repos are being added.
-
-## GitHub Stats
-
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajatRawat94&show_icons=true&hide_border=true)
